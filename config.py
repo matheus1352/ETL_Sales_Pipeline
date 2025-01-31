@@ -1,7 +1,7 @@
 DATABASE_CONFIG = {
     'dbname': 'sales_db',
-    'user': 'your_username',
-    'password': 'your_password',
+    'user': 'mmt',
+    'password': 'mmt',
     'host': 'localhost',
     'port': 5432
 }
